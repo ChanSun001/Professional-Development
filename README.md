@@ -1,2 +1,2 @@
-# Professional-Development
+# Professional Development
 Small Python Project 
